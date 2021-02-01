@@ -1,12 +1,7 @@
-class {
-    public static void main(String[] args) {
-        System.out.println("Hello, World!");
-    }
+class{
+public static void[]
+{
+// this is sample java program
+print("helloworld");
 }
-
-
-
-
-
-
-
+}
